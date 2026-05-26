@@ -44,7 +44,7 @@ To preview your changes locally before submitting them, you will need to run the
 
 4. Open `http://localhost:4000` in your browser. The site will automatically rebuild when you save changes to files.
 
-## 📝 Pull Request Process
+## Pull Request Process
 
 When you are ready to submit your changes, please follow these steps to ensure a smooth review process:
 
@@ -72,7 +72,7 @@ When you are ready to submit your changes, please follow these steps to ensure a
 * If your PR fixes an open issue, link to it (e.g., "Closes #12").
 * If you are adding a new event or tutorial, ensure it follows the formatting style of existing entries.
 
-## 🐞 Reporting Bugs
+## Reporting Bugs
 
 If you find a broken link, a visual bug on mobile, or an SEO issue, please check the [Issue Tracker](https://www.google.com/search?q=link-to-issues) to see if it has already been reported. If not, open a new issue and include:
 
