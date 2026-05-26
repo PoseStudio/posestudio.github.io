@@ -71,4 +71,4 @@ If you'd like to back the project financially, you can support us through:
 
 ## License
 
-The content of this website and its source code are licensed under the [MIT License](https://www.google.com/search?q=LICENSE). The PoseStudio logo and branding assets are copyright of the PoseStudio project.
+The content of this website and its source code are licensed under the [MIT License](LICENSE). The PoseStudio logo and branding assets are copyright of the PoseStudio project.
