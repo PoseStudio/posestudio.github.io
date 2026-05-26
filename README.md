@@ -21,7 +21,7 @@ To run this website locally and preview your changes before pushing to GitHub Pa
 **Installation:**
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR_ORG/posestudio.org.git](https://github.com/YOUR_ORG/posestudio.org.git)
+   git clone [https://github.com/PoseStudio/posestudio.org.git](https://github.com/PoseStudio/posestudio.org.git)
 
 ```
 
