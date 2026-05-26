@@ -22,7 +22,7 @@ If you discover a security vulnerability regarding the posestudio.org website, i
 Instead, please report it privately to the project maintainers.
 
 **How to report:**
-1. Email your findings to **[Community Support community@posestudio.org]**.
+1. Email your findings to **Community Support community@posestudio.org**.
 2. Include a clear description of the vulnerability, the steps required to reproduce it, and any potential impact.
 3. If applicable, include information regarding the specific browser or user agent used during your testing.
 
