@@ -8,7 +8,7 @@ Welcome to the official repository for [PoseStudio.org](https://posestudio.org),
 
 This repository is strictly for the website front-end and documentation hosting. 
 
-If you are looking for the core application source code, issue tracker, or releases for the PoseStudio 3D software itself, please visit our main application repository: **[Link to Main PoseStudio Repo]**.
+If you are looking for the core application source code, issue tracker, or releases for the PoseStudio 3D software itself, please visit our main application repository: **[https://github.com/PoseStudio/PoseStudio]**.
 
 ## 🛠️ Local Development
 
