@@ -80,7 +80,7 @@ When you are ready to submit your changes, please follow these steps to ensure a
 
 * Provide a clear summary of what you changed in the PR description.
 * If your PR fixes an open issue, link to it (e.g., "Closes #12").
-* If you are adding a new event or tutorial, ensure it follows the formatting style of existing entries.
+* If you are adding a new section to a page, ensure it follows the formatting style of existing content.
 
 ## Reporting Bugs
 
