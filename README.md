@@ -20,8 +20,8 @@ PoseStudio is an open-source alternative for the 3D character and animation comm
 
 If you'd like to back the project financially, you can support us through:
 
-* **[GitHub Sponsors](https://github.com/sponsors/PoseStudio)**
-* **[Patreon](https://www.patreon.com/c/PoseStudio)**
+<!-- * **Git Sponsor:** You can help by **[Becoming a Sponsor on Git](https://github.com/sponsors/PoseStudio)** -->
+* **Patreon:** You can also **[Become a Sponsor on Patreon](https://www.patreon.com/c/PoseStudio)**
 
 ## License
 
