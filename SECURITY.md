@@ -4,7 +4,7 @@ The PoseStudio team takes the security of our project and infrastructure serious
 
 Please note that this repository (`PoseStudio/posestudio.github.io`) is dedicated solely to the front-end website, documentation, and web infrastructure for PoseStudio.org. 
 
-**If you have found a security vulnerability in the PoseStudio 3D software application itself, please refer to the security policy in the main application repository.**
+**If you have found a security vulnerability in the PoseStudio 3D software application itself, please refer to the security policy in the [main application repository](https://github.com/PoseStudio/PoseStudio).**
 
 ## Supported Versions
 
