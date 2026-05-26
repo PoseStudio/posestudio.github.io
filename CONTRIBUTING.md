@@ -83,5 +83,3 @@ If you find a broken link, a visual bug on mobile, or an SEO issue, please check
 *(Note: For security vulnerabilities, do not open a public issue. Please refer to our [SECURITY.md](SECURITY.md) for private reporting instructions).*
 
 ```
-
-```
