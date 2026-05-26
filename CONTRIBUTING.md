@@ -4,7 +4,7 @@ First off, thank you for considering contributing to PoseStudio!
 
 Community contributions are what make open-source projects thrive.
 
-> **Note:** This repository is strictly for the PoseStudio website and documentation (`posestudio.org`). If you want to contribute to the core 3D character and animation software, please visit our **[Main Application Repository Link]**.
+> **Note:** This repository is strictly for the PoseStudio website and documentation (`[posestudio.org](https://posestudio.org/)`). If you want to contribute to the core 3D character and animation software, please visit our **https://github.com/PoseStudio/PoseStudio**.
 
 ## 📜 Code of Conduct
 
