@@ -23,7 +23,7 @@ To preview your changes locally before submitting them, you will need to run the
 
 1. **Fork** the repository and clone your fork locally:
 ```bash
-   git clone [https://github.com/YOUR-USERNAME/posestudio.github.io.git](https://github.com/YOUR-USERNAME/posestudio.github.io.git)
+   git clone https://github.com/PoseStudio/posestudio.github.io.git
    cd posestudio.github.io
 
 ```
