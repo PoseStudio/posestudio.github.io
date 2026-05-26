@@ -84,7 +84,7 @@ When you are ready to submit your changes, please follow these steps to ensure a
 
 ## Reporting Bugs
 
-If you find a broken link, a visual bug on mobile, or an SEO issue, please check the [Issue Tracker](https://www.google.com/search?q=https://github.com/PoseStudio/posestudio.github.io/issues) to see if it has already been reported. If not, open a new issue and include:
+If you find a broken link, a visual bug on mobile, or an SEO issue, please check the [Issue Tracker](https://github.com/PoseStudio/posestudio.github.io/issues) to see if it has already been reported. If not, open a new issue and include:
 
 * The URL where the bug occurs.
 * What you expected to see vs. what actually happened.
