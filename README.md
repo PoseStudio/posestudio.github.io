@@ -1,6 +1,6 @@
 # PoseStudio.org Website Repository
 
-Welcome to the official repository for [PoseStudio.org](https://posestudio.org), the web home of the open-source 3D character and animation software project. This repository contains the source code, assets, and content that power the main site via GitHub Pages.
+Welcome to the official repository for [PoseStudio.org](https://posestudio.org), the web home of the open-source 3D character software project. This repository contains the source code, assets, and content that power the main site via GitHub Pages.
 
 ---
 
