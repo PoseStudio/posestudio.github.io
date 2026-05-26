@@ -1,6 +1,3 @@
-Here is a comprehensive `README.md` tailored for the GitHub Pages repository hosting the PoseStudio website. You can copy and paste this directly into your repository.
-
-```markdown
 # PoseStudio.org Website Repository
 
 Welcome to the official repository for [PoseStudio.org](https://posestudio.org), the web home of the open-source 3D character and animation software project. This repository contains the source code, assets, and content that power the main site via GitHub Pages.
@@ -69,15 +66,9 @@ PoseStudio is an open-source alternative for the 3D character and animation comm
 
 If you'd like to back the project financially, you can support us through:
 
-* **[GitHub Sponsors](https://www.google.com/search?q=link-to-github-sponsors)**
-* **[Patreon](https://www.google.com/search?q=link-to-patreon)**
+* **[GitHub Sponsors](https://github.com/sponsors/PoseStudio)**
+* **[Patreon](https://www.patreon.com/c/PoseStudio)**
 
 ## License
 
 The content of this website and its source code are licensed under the [MIT License](https://www.google.com/search?q=LICENSE). The PoseStudio logo and branding assets are copyright of the PoseStudio project.
-
-```
-
-If you end up using a specific static site generator (like Hugo or React) instead of the default Jekyll build for GitHub Pages, you can just swap out the local development terminal commands.
-
-```
