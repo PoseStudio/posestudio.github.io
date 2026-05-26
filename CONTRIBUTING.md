@@ -6,20 +6,18 @@ Community contributions are what make open-source projects thrive.
 
 > **Note:** This repository is strictly for the PoseStudio website ([posestudio.org](https://posestudio.org/)) and documentation. If you want to contribute to the core 3D character and animation software, please visit our main **[PoseStudio Application Repository](https://github.com/PoseStudio/PoseStudio)**.
 
-## 📜 Code of Conduct
+## Code of Conduct
 
 By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). We expect all contributors to maintain a respectful and welcoming environment.
 
-## 💡 How You Can Help
+## How You Can Help
 
 There are several ways you can contribute to the website:
 
-* **Content & Documentation:** Fix typos, clarify confusing instructions, or write entirely new tutorials for using PoseStudio.
-* **Events Directory:** Submit upcoming 3D, CG, and animation industry events to our community calendar.
-* **Technical Guides:** Help us keep our 3D file format comparison tables accurate and up-to-date as extensions evolve.
+* **Content & Documentation:** Fix typos, clarify confusing instructions, or write entirely new content about the PoseStudio project.
 * **Site Architecture:** Improve our HTML accessibility, refine CSS/UI elements, or help optimize our technical SEO and structured data.
 
-## 🛠️ Local Development Setup
+## Local Development Setup
 
 To preview your changes locally before submitting them, you will need to run the site using Jekyll.
 
