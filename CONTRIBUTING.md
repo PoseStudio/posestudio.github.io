@@ -61,7 +61,7 @@ When you are ready to submit your changes, please follow these steps to ensure a
 1. **Create a new branch** for your feature or fix:
 
 ```bash
-   git checkout -b update/file-format-table
+   git checkout -b update/index-homepage
 
 ```
 
@@ -69,7 +69,7 @@ When you are ready to submit your changes, please follow these steps to ensure a
 3. **Commit your changes** with a clear, descriptive commit message:
 
 ```bash
-   git commit -m "Add .usdz format specifications to the comparison table"
+   git commit -m "Update hero section layout in index.html"
 
 ```
 
