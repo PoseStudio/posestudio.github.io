@@ -8,7 +8,7 @@ Community contributions are what make open-source projects thrive.
 
 ## Code of Conduct
 
-By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). We expect all contributors to maintain a respectful and welcoming environment.
+By participating in this project, you agree to abide by our [Code of Conduct](.github/CODE_OF_CONDUCT.md). We expect all contributors to maintain a respectful and welcoming environment.
 
 ## Repository Structure
 
