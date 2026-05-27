@@ -12,7 +12,7 @@ If you are looking for the core application source code, issue tracker, or relea
 
 ## Contributing to the Website & Local Development
 
-For info on how to contribute changes to this repo, see our **[CONTRIBUTING.md](CONTRIBUTING.md)**
+For info on how to contribute changes to this repo, see our **[CONTRIBUTING.md](.github/CONTRIBUTING.md)**
 
 ## Support PoseStudio
 
